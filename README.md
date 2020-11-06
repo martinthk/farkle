@@ -5,10 +5,9 @@ It is multi-player with a minimum of two players, but no upper limit on the numb
 
 The goal is to reach 5,000 points first.
 
-## Points:
+## Points
 
 Points are acquired one of three different ways:
-
   * A roll of a 1 is worth 100 points.
   * A roll of a 5 is worth 50 points.
   * Three dice rolled at the same time with the same value is worth 100 times the face value. 
